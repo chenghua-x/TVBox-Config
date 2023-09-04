@@ -16,12 +16,10 @@
 {"key":"csp_XYQBiu_大师兄影视","name":"土豆","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/dashixiong.json"},
 {"key":"csp_XYQBiu_骚火电影VIP","name":"乐视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/letv.json"},
 {"key":"csp_迪迪","name":"风行","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-{"key":"csp_555","name":"暴风","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.555dyy1.com"},
 {"key":"百度","name":"快播","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫"]},
 {"key":"量子","name":"快看","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","韩国剧","日本剧","体育","足球","篮球"]},
 {"key":"drpy_js_310直播","name":"体育","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"https://github.com/chenghua-x/TVBox-Config/blob/main/js/310.js"},
 {"key":"drpy_js_网易公版影像","name":"记录","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/网易公版影像.js"},
-{"key":"csp_kuaikan","name":"速播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Yj1211","name":"直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_WoGG","name":"云播","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"}
 
