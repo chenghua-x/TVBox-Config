@@ -32,18 +32,8 @@
             "ext": "https://dxawi.github.io/1/json/nm.json"
         },
 	{
-	    "key": "csp_XYQBiu",
-	    "name": "乐视",
-            "type": 3,
-	    "api": "csp_XYQBiu",
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 1,
-	    "ext": "./json/letv.json"
-	},
-	{
 	"key":"移动云盘",
-	"name":"移动┃云盘",
+	"name":"乐视",
 	"type":1,
 	"playerType":1,
 	"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
