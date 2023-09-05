@@ -16,11 +16,9 @@
     {"key":"csp_XYQBiu_310直播","name": "体育","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./json/310.json"},
     {"key":"drpy_js_网易公版影像","name":"记录","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/jilu.js"},
     {"key":"csp_77","name":"解析","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_XYQHiker_农民影视","name":"解析","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/nomn.json"},
     {"key": "csp_XYQHiker_555影视","name":"解析","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"},
-    {"key":"csp_迪迪","name":"解析","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
+   {"k ey":"csp_迪迪","name":"解析","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
     {"key":"csp_WoGG","name":"解析","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
-    {"key":"csp_Yisou","name":"解析","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"}
 ],
     "parses": [
         {"name":"Web","type":3,"url":"Web"},
