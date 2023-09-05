@@ -1,18 +1,18 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider":"https://jihulab.com/chenghua/tvbox/-/raw/main/jar/XYQ.jar;md5;9f7e10364a4d9ffbbdfef19f5c378848",
+    "spider":"./jar/XYQ.jar;md5;9f7e10364a4d9ffbbdfef19f5c378848",
     "lives":[
 {"name":"4K8K","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"ZHGIPTV","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/myiptv.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
     "sites": 
     [
-        {"key":"爱奇异","name":"爱奇艺","type":3,"api":"https://jihulab.com/chenghua/tvbox/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/chenghua/tvbox/-/raw/main/js/aiqiyi.js"},
-        {"key":"优酷","name":"优酷","type":3,"api":"https://jihulab.com/chenghua/tvbox/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/chenghua/tvbox/-/raw/main/js/youku.js"},
-        {"key":"腾讯","name":"腾讯","type":3,"api":"https://jihulab.com/chenghua/tvbox/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/chenghua/tvbox/-/raw/main/js/tengxun.js"},    
-        {"key": "csp_XYQHiker_555影视","name":"解析","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/chenghua/tvbox/-/raw/main/js/555.json"},
-        {"key": "csp_XYQBiu_网易CC直播","name": "直播","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/chenghua/tvbox/-/raw/main/json/wangyi.json"},
-        {"key": "csp_XYQBiu_310直播","name": "体育","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://jihulab.com/chenghua/tvbox/-/raw/main/json/310.json"}  
+        {"key":"爱奇异","name":"爱奇艺","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
+        {"key":"优酷","name":"优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},
+        {"key":"腾讯","name":"腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},    
+        {"key": "csp_XYQHiker_555影视","name":"解析","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/555.json"},
+        {"key": "csp_XYQBiu_网易CC直播","name": "直播","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": ".json//wangyi.json"},
+        {"key": "csp_XYQBiu_310直播","name": "体育","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./json/310.json"}  
     ],
     "parses": [
         {"name":"Web","type":3,"url":"Web"},
