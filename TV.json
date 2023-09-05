@@ -42,6 +42,16 @@
 	    "ext": "./json/letv.json"
 	},
 	{
+	"key":"移动云盘",
+	"name":"移动┃云盘",
+	"type":1,
+	"playerType":1,
+	"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+	"searchable":1,
+	"quickSearch":1,
+	"timeout":30
+	},
+	{
             "key": "csp_YQKAPP",
             "name": "爱奇艺",
             "type": 3,
