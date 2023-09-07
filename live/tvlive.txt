@@ -1,5 +1,5 @@
 本地,#genre#
-黑龙江卫视,https://cntv.sbs/tv?auth=230830&id=hljws
+黑龙江卫视,https://tplay.hljtv.com/live/wxlive.m3u8?txSecret=4a757c107ee6db6f79e8535ddab8155d&txTime=6791E481
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江新闻,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
