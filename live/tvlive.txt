@@ -160,10 +160,3 @@ CCTV17,https://live.goodiptv.club/api/yqgd.php?id=cctv17
 云南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020a2f74b03928347fb0b02768b.m3u8?bitrate=2300&pt=5
 甘肃卫视,http://cyz32.livehbindex.hbcatv.cn/live/500000206da44fde810a98a3d7848f82.m3u8?bitrate=2300&pt=5
 广西卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020731348f098457f0080cdf72c.m3u8?bitrate=2300&pt=5
-
-广播,#genre#
-新闻广播,https://stream3.hljtv.com/hljrdxw/sd/live.m3u8?
-交通广播,https://stream3.hljtv.com/hljrdjt/sd/live.m3u8?
-音乐广播,https://stream3.hljtv.com/hljrdyy/sd/live.m3u8?
-生活广播,https://stream3.hljtv.com/hljrdsh/sd/live.m3u8?
-高校广播,https://stream3.hljtv.com/hljrdgx/sd/live.m3u8?
