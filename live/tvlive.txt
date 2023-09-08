@@ -6,14 +6,27 @@
 黑龙江新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+哈尔滨新闻,http://stream.hrbtv.net/xwzh/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 
 
+
+黑龙江卫视,http://111.40.196.29:443/PLTV/88888888/224/3221225544/1.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江新闻,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+
+
+黑龙江影视,http://39.134.67.108/PLTV/88888888/224/3221225973/1.m3u8
+黑龙江都市,http://39.134.67.108/PLTV/88888888/224/3221225969/1.m3u8
+黑龙江文体,http://39.134.67.108/PLTV/88888888/224/3221225965/1.m3u8
+黑龙江少儿,http://39.134.67.108/PLTV/88888888/224/3221225979/index.m3u8
+黑龙江新闻,http://39.134.67.108/PLTV/88888888/224/3221225967/index.m3u8
+
+
 
 
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
@@ -326,6 +339,8 @@ CCTV17,https://live.goodiptv.club/api/yqgd.php?id=cctv17
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
 咪咕视频,http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
+咪咕视频,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
+
 
 
 
