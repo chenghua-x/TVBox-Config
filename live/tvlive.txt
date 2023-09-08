@@ -7,14 +7,6 @@
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 
-黑龙江卫视,https://tplay.hljtv.com/live/wxlive.m3u8?txSecret=4a757c107ee6db6f79e8535ddab8155d&txTime=6791E481
-黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
-黑龙江新闻,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-黑龙江农业,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
-黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
-
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
 黑龙江农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
@@ -47,21 +39,6 @@ CCTV16,https://cntv.sbs/tv?auth=230830&id=cctv164k
 CCTV17,https://cntv.sbs/tv?auth=230830&id=cctv17
 CCTV4K,https://cntv.sbs/tv?auth=230830&id=cctv4k
 CCTV8K,http://159.75.85.63:8765/xxtv8k.php
-
-
-CCTV世界地理,http://111.20.105.60:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV兵器科技,http://111.20.105.60:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV央视台球,http://111.20.105.60:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV女性时尚,http://111.20.105.60:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV怀旧剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV文化精品,http://111.20.105.60:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV电视指南,http://111.20.105.60:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV第一剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云剧场,http://111.20.105.60:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云足球,http://111.20.105.60:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV风云音乐,http://111.20.105.60:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-
 
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV2,http://39.134.66.66/PLTV/88888888/224/3221225820/index.m3u8
@@ -210,7 +187,6 @@ CCTV17,https://live.goodiptv.club/api/yqgd.php?id=cctv17
 辽宁卫视,https://cntv.sbs/tv?auth=230830&id=lnws
 湖北卫视,https://cntv.sbs/tv?auth=230830&id=hubws
 厦门卫视,https://cntv.sbs/tv?auth=230830&id=xmws
-内蒙古卫视,https://cntv.sbs/tv?auth=230830&id=nmws
 山西卫视,https://cntv.sbs/tv?auth=230830&id=sxiws
 宁夏卫视,https://cntv.sbs/tv?auth=230830&id=nxws
 青海卫视,https://cntv.sbs/tv?auth=230830&id=qhws
@@ -222,6 +198,8 @@ CCTV17,https://live.goodiptv.club/api/yqgd.php?id=cctv17
 海南卫视,https://cntv.sbs/tv?auth=230830&id=hinws
 三沙卫视,https://cntv.sbs/tv?auth=230830&id=ssws
 海峡卫视,https://cntv.sbs/tv?auth=230830&id=hxws
+内蒙古卫视,https://cntv.sbs/tv?auth=230830&id=nmws
+
 
 东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 北京卫视,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
