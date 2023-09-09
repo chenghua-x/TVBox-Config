@@ -32,16 +32,6 @@
             "ext": "https://dxawi.github.io/1/json/nm.json"
         },
 	{
-	"key":"移动云盘",
-	"name":"乐视",
-	"type":1,
-	"playerType":1,
-	"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-	"searchable":1,
-	"quickSearch":1,
-	"timeout":30
-	},
-	{
             "key": "csp_YQKAPP",
             "name": "爱奇艺",
             "type": 3,
@@ -51,6 +41,16 @@
             "filterable": 1,
             "ext": "https://api-aws.11ty.top"
         }, 
+       {
+	"key":"移动云盘",
+	"name":"乐视",
+	"type":1,
+	"playerType":1,
+	"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
+	"searchable":1,
+	"quickSearch":1,
+	"timeout":30
+       },
 	 {
             "key": "csp_WoGG",
             "name": "云播",
