@@ -157,6 +157,8 @@ CCTV16,http://111.20.105.60:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtu
 CCTV17,http://111.20.105.60:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 CCTV1,http://111.40.196.38:443/PLTV/88888888/224/3221225548/1.m3u8
+CCTV3,http://111.20.40.173/PLTV/88888893/224/3221226397/index.m3u8
+CCTV6,http://111.20.40.164/PLTV/88888893/224/3221226191/index.m3u8
 CCTV10,http://111.40.196.32:443/PLTV/88888888/224/3221225494/1.m3u8
 CCTV11,http://111.40.196.29:443/PLTV/88888888/224/3221225496/1.m3u8
 CCTV12,http://111.40.196.25:443/PLTV/88888888/224/3221225498/1.m3u8
@@ -188,6 +190,10 @@ CCTV15,http://111.40.196.37:443/PLTV/88888888/224/3221225500/1.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+凤凰卫视,http://113.64.147.60:8081/hls/37/index.m3u8
+凤凰卫视,http://113.64.147.152:8081/hls/37/index.m3u8
+
+
 
 深圳卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8
 湖北卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
