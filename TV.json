@@ -1,7 +1,7 @@
 
 {
     "sites": [ 
- {
+       {
             "key":"drpy_js_豆瓣",
             "name":"TVBox",
             "type":3,
@@ -11,13 +11,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-	    {
-	    "key":"腾讯",
-	    "name":"土豆",
-	    "type":3,
-	    "api":"./lib/drpy2.min.js",
-	    "ext":"./js/tengxun.js"
-	    },
 	{
             "key": "csp_77",
             "name": "优酷",
@@ -86,8 +79,8 @@
         }
     ],
 "parses": [
-        {"name":"-🌷-","type":0,"url":"https://jx.xmflv.com/?url="},
-        {"name":"-🌹-","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","parse":"1","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+        {"name":"-Demo-","type":0,"url":"https://jx.xmflv.com/?url="},
+        {"name":"-Web-","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","parse":"1","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
         {"name":"-🌷-","type":0,"url":"https://www.yemu.xyz/?url="}
     ],
     "ijk": [
