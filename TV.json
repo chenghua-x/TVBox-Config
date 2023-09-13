@@ -41,16 +41,6 @@
             "filterable": 1,
             "ext": "https://api-aws.11ty.top"
        }, 
-       {
-	   "key":"移动云盘",
-	   "name":"土豆",
-	   "type":1,
-	   "playerType":1,
-	   "api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-	   "searchable":1,
-	   "quickSearch":1,
-	   "timeout":30
-       },
 	 {
             "key": "csp_WoGG",
             "name": "云播",
