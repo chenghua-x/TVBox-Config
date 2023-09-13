@@ -1,7 +1,7 @@
 
 {
-    "sites": [    
-        {
+    "sites": [ 
+ {
             "key":"drpy_js_豆瓣",
             "name":"TVBox",
             "type":3,
@@ -11,6 +11,13 @@
             "quickSearch": 0,
             "filterable": 0
         },
+	    {
+	    "key":"腾讯",
+	    "name":"土豆",
+	    "type":3,
+	    "api":"./lib/drpy2.min.js",
+	    "ext":"./js/tengxun.js"
+	    },
 	{
             "key": "csp_77",
             "name": "优酷",
@@ -80,12 +87,7 @@
     ],
 "parses": [
         {"name":"-🌷-","type":0,"url":"https://jx.xmflv.com/?url="},
-        {"name":"-成-","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-        {"name":"-华-","type":0,"url":"https://jx.quankan.app/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-        {"name":"-免-","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","parse":"1","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-        {"name":"-费-","type":0,"url":"https://jx.yparse.com/index.php?url="},
-        {"name":"-分-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-        {"name":"-享-","type":0,"url":"https://api.jiexi.la/?url="},
+        {"name":"-🌹-","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","parse":"1","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
         {"name":"-🌷-","type":0,"url":"https://www.yemu.xyz/?url="}
     ],
     "ijk": [
