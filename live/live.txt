@@ -1,2 +1,2 @@
 游戏赛事,#genre#
-虎牙·uzi,http://epg.112114.xyz/douyu/6861249
+虎牙,http://epg.112114.xyz/douyu/6861249
