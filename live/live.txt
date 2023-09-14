@@ -1,2 +1,2 @@
 游戏赛事,#genre#
-虎牙·uzi，http://tx.hls.huya.com/src/1691592144-1691592144-7265332936650522624-3383307744-10057-A-0-1-imgplus.m3u8?wsSecret=44eb2452e139e79f238e7275962d01b2&wsTime=65030fc0&seqid=3158689715351&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
+虎牙·uzi,http://tx.hls.huya.com/src/1691592144-1691592144-7265332936650522624-3383307744-10057-A-0-1-imgplus.m3u8?wsSecret=44eb2452e139e79f238e7275962d01b2&wsTime=65030fc0&seqid=3158689715351&ctype=huya_live&ver=1&txyp=&fs=bgct&ratio=&u=1463993859134&t=&sv=2107230339
