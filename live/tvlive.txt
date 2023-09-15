@@ -367,26 +367,61 @@ CCTV17,http://111.20.35.103:6610/yinhe/2/ch00000090990000001301/index.m3u8
 
 直播,#genre#
 
+虎牙-Uzi,https://www.goodiptv.club/huya/100
+虎牙-Uzi,http://epg.112114.xyz/huya/100
 虎牙-张大仙,https://www.goodiptv.club/huya/688
 虎牙-张大仙,http://epg.112114.xyz/huya/688
-虎牙-狂鸟·楚河,https://www.goodiptv.club/huya/998
-虎牙-狂鸟·楚河,http://epg.112114.xyz/huya/998
-虎牙-久爱·明凯,https://www.goodiptv.club/huya/339124
-虎牙-久爱·明凯,http://epg.112114.xyz/huya/339124
-虎牙-久爱·德华,https://www.goodiptv.club/huya/243547
-虎牙-久爱·德华,http://epg.112114.xyz/huya/243547
-虎牙-久爱·故辞,https://www.goodiptv.club/huya/358559
-虎牙-久爱·故辞,http://epg.112114.xyz/huya/358559
-斗鱼-放逐大帝,https://www.goodiptv.club/douyu/5377721
-斗鱼-放逐大帝,http://epg.112114.xyz/huya/5377721
-虎牙-宇晨·马可,https://www.goodiptv.club/huya/691346
-虎牙-宇晨·马可,http://epg.112114.xyz/huya/691346
+虎牙-孤影,https://www.goodiptv.club/huya/321
+虎牙-孤影,http://epg.112114.xyz/huya/321
+虎牙-可杰,https://www.goodiptv.club/huya/509265
+虎牙-可杰,http://epg.112114.xyz/huya/509265
+虎牙-空伐,https://www.goodiptv.club/huya/960427
+虎牙-空伐,http://epg.112114.xyz/huya/960427
+虎牙-XLX金木,https://www.goodiptv.club/huya/127362
+虎牙-XLX金木,http://epg.112114.xyz/huya/127362
+虎牙-狂鸟-楚河,https://www.goodiptv.club/huya/998
+虎牙-狂鸟-楚河,http://epg.112114.xyz/huya/998
+虎牙-灵石-小锦儿,https://www.goodiptv.club/huya/813749
+虎牙-灵石-小锦儿,http://epg.112114.xyz/huya/813749
+虎牙-久爱-明凯,https://www.goodiptv.club/huya/339124
+虎牙-久爱-明凯,http://epg.112114.xyz/huya/339124
+虎牙-久爱-西西,https://www.goodiptv.club/huya/584260
+虎牙-久爱-西西,http://epg.112114.xyz/huya/584260
+虎牙-久爱-德华,https://www.goodiptv.club/huya/243547
+虎牙-久爱-德华,http://epg.112114.xyz/huya/243547
+虎牙-久爱-猪猪小悠,https://www.goodiptv.club/huya/651353
+虎牙-久爱-猪猪小悠,http://epg.112114.xyz/huya/651353
+虎牙-久爱-故辞,https://www.goodiptv.club/huya/358559
+虎牙-久爱-故辞,http://epg.112114.xyz/huya/358559
+虎牙-宇晨-马可,https://www.goodiptv.club/huya/691346
+虎牙-宇晨-马可,http://epg.112114.xyz/huya/691346
+虎牙-华创-鲍星星,https://www.goodiptv.club/huya/273435
+虎牙-华创-鲍星星,http://epg.112114.xyz/huya/273435
+虎牙-东星-耀扬,https://www.goodiptv.club/huya/632956
+虎牙-东星-耀扬,http://epg.112114.xyz/huya/632956
 虎牙-杰米GEmini,http://epg.112114.xyz/huya/426743
 虎牙-杰米GEmini,https://www.goodiptv.club/huya/426743
-虎牙-正恒·紫宸,http://epg.112114.xyz/huya/859042
-虎牙-正恒·紫宸,https://www.goodiptv.club/huya/859042
+虎牙-AzZ-蜜小涛,http://epg.112114.xyz/huya/861098
+虎牙-AzZ-蜜小涛,https://www.goodiptv.club/huya/861098
+虎牙-AzZ-口袋,http://epg.112114.xyz/huya/51106
+虎牙-AzZ-口袋,https://www.goodiptv.club/huya/51106
+虎牙-正恒-紫宸,http://epg.112114.xyz/huya/859042
+虎牙-正恒-紫宸,https://www.goodiptv.club/huya/859042
+虎牙-LING-赖神,http://epg.112114.xyz/huya/99724
+虎牙-LING-赖神,https://www.goodiptv.club/huya/99724
+虎牙-LING-张老三,http://epg.112114.xyz/huya/52333
+虎牙-LING-张老三,https://www.goodiptv.club/huya/52333
+虎牙-LING-柱子,http://epg.112114.xyz/huya/451268
+虎牙-LING-柱子,https://www.goodiptv.club/huya/451268
+虎牙-Wells-明眸,http://epg.112114.xyz/huya/786724
+虎牙-Wells-明眸,https://www.goodiptv.club/huya/786724
+虎牙-三峡-韩涵TuT,http://epg.112114.xyz/huya/774810
+虎牙-三峡-韩涵TuT,https://www.goodiptv.club/huya/774810
 虎牙-童锦程,https://www.goodiptv.club/huya/527988
 虎牙-童锦程,http://epg.112114.xyz/huya/527988
+
+斗鱼-放逐大帝,https://www.goodiptv.club/douyu/5377721
+斗鱼-放逐大帝,http://epg.112114.xyz/douyu/5377721
 
 
 虎牙-电影放映厅,https://www.goodiptv.club/huya/11602077
@@ -396,6 +431,9 @@ CCTV17,http://111.20.35.103:6610/yinhe/2/ch00000090990000001301/index.m3u8
 虎牙-虎妞电影,https://www.goodiptv.club/huya/20343144
 虎牙-经典港剧,https://www.goodiptv.club/huya/18441722
 虎牙-火影忍者解说,https://www.goodiptv.club/huya/17269326
+
+
+
 
 
 
