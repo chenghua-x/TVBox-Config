@@ -365,7 +365,16 @@ CCTV17,http://111.20.35.103:6610/yinhe/2/ch00000090990000001301/index.m3u8
 咪咕卫视,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
 咪咕卫视,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
 
+直播,#genre#
 
+[虎牙-电影放映厅],https://www.goodiptv.club/huya/11602077
+[虎牙-电影放映厅],https://www.goodiptv.club/huya/880261
+[虎牙-影视放映厅],https://www.goodiptv.club/huya/16020072
+[虎牙-茶啊二中],https://www.goodiptv.club/huya/11213191
+[虎牙-荒野求生],https://www.goodiptv.club/huya/24766781
+[虎牙-虎妞电影],https://www.goodiptv.club/huya/20343144
+[虎牙-经典港剧],https://www.goodiptv.club/huya/18441722
+[虎牙-火影忍者解说],https://www.goodiptv.club/huya/17269326
 
 
 
