@@ -11,9 +11,15 @@
             "quickSearch": 0,
             "filterable": 0
         },
+        {
+            "key":"腾讯",
+            "name":"风华绝代",
+            "type":3,"api":"./lib/drpy2.min.js",
+            "ext":"./js/tengxun.js"
+        },
 	{
             "key": "csp_77",
-            "name": "优酷",
+            "name": "陌上花开",
             "type": 3,
             "api": "csp_Kunyu77",
             "playerType": 1,
@@ -23,7 +29,7 @@
         },
 	{
             "key": "csp_Nmys",
-            "name": "腾讯",
+            "name": "春风十里",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -33,7 +39,7 @@
         },
 	{
             "key": "csp_YQKAPP",
-            "name": "爱奇艺",
+            "name": "空山新雨",
             "type": 3,
             "api": "csp_YQKAPP",
             "searchable": 1,
@@ -43,7 +49,7 @@
         }, 
 	{
             "key": "csp_WoGG",
-            "name": "云播",
+            "name": "清风明月",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -51,15 +57,9 @@
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
         },
-        {
-            "key":"腾讯",
-            "name":"速播",
-            "type":3,"api":"./lib/drpy2.min.js",
-            "ext":"./js/tengxun.js"
-        },
     	{
 	    "key":"csp_Bttoo",
-	    "name":"快播",
+	    "name":"风花雪月",
             "type":"0",
             "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "searchable":"1",
