@@ -33,6 +33,16 @@
 黑龙江新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
 黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
 
+
+
+黑龙江农业,http://39.134.65.147/PLTV/88888888/224/3221225998/1.m3u8?zheild
+黑龙江文体,http://39.134.65.145/PLTV/88888888/224/3221226012/1.m3u8?zheild
+黑龙江新闻,http://39.134.65.149/PLTV/88888888/224/3221225992/1.m3u8?zheild
+黑龙江影视,http://39.134.65.145/PLTV/88888888/224/3221225971/1.m3u8?zheild
+黑龙江都市,http://39.134.65.145/PLTV/88888888/224/3221225990/1.m3u8?zheild
+黑龙江少儿,http://39.134.65.145/PLTV/88888888/224/3221226002/1.m3u8?zheild
+
+
 央视,#genre#
 CCTV1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=2
 CCTV2,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=2
