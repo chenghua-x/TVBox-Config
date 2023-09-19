@@ -28,6 +28,8 @@
         {"key": "csp_XYQHiker_555影视","name":"解析┃快播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"}
     ],
     "parses": [
+        {"name": "Demo","type": 3,"url": "Demo"},
+        {"name": "Web","type": 3,"url": "Web"},
         {"name":"-❀-","type":0,"url":"https://jx.xmflv.com/?url="},
         {"name":"-成-","type": 1,"url": "http://jiexi.lyyytv.cn/json.php?url=","ext": {"flag": ["XY"],"header": {"User-Agent": "okhttp/3.12.11"}}},
         {"name":"-华-","type":0,"url":" https://svip.ikumiao.icu/dm/?uid=4292751&key=dikpqruyBHLNQW0346&url="},
