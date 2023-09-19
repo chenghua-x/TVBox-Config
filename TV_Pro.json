@@ -16,7 +16,7 @@
         {"key":"腾讯","name":"腾讯┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
         {"key":"优酷","name":"优酷┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/youku.js"},
         {"key":"芒果","name":"芒果┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
-        {"key":"爱奇异","name":"爱奇艺┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
+        {"key":"爱奇异","name":"奇艺┃官方","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
         {"key":"drpy_js_310直播","name":"体育","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/310.js"},    
      // {"key": "csp_XYQBiu_网易CC直播","name": "直播","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./json/wangyi.json"},
      // {"key":"drpy_js_网易公版影像","name":"记录","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/jilu.js"},
