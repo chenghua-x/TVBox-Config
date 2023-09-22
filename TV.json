@@ -6,7 +6,7 @@
             "name":"TVBox",
             "type":3,
             "api":"./lib/drpy2.min.js",
-            "ext":"https://xhdwc.tk/js/drpy.js",
+            "ext":"./js/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -43,7 +43,7 @@
            "name": "天行九歌",
            "type": 3,
            "api": "./lib/drpy2.min.js",
-           "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
+           "ext": "./js/changmeng.js"
         },
 	{
             "key": "csp_WoGG",
