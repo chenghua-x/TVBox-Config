@@ -28,6 +28,11 @@
         {"key": "xml_玩偶","name": "解析┃云播","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=680004e6f912449db01d407c78661c79","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "yc","name": "解析┃盘播","type": 3,"playerType": 1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/p5RUL/tk.php","jar": "./jar/xry.jar"},
         {"key": "探探","name": "解析┃影播","type": 3,"playerType": "1","api": "csp_YTVIP","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "vip.lyyytv.cn","jar": "./jar/fan.txt"},
+        {"key": "csp_XYQHiker_电影港","name": "解析┃港播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/AN6bsy/%E7%94%B5%E5%BD%B1%E6%B8%AF%E7%A3%81%E5%8A%9B.json","jar": "https://pan.shangui.cc/f/8o3pUo/custom_spider.jar"},
+        {"key": "快车资源","name": "广告┃车播","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","战争片","动作片","香港剧"],"jar": "./jar/fan.txt"},
+        {"key": "光速资源","name": "广告┃光播","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["大陆剧","港澳剧","综艺","动漫"],"jar": "./jar/fan.txt"},
+        {"key": "百度资源","name": "广告┃度播","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["大陆剧","战争片","动作片","喜剧片"],"jar": "./jar/fan.txt"},
+        {"key": "姐姐","name": "广告┃玩播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dytt996.com/api.php/app/""jar": "./jar/fan.txt"},
         {"key": "csp_XYQHiker_555影视","name":"解析┃快播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"}
     ],
     "parses": [
