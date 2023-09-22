@@ -37,6 +37,16 @@
             "filterable": 1,
             "ext": "https://api-aws.11ty.top"
         }, 
+        {
+            "key": "骚火",
+            "name": "♻️骚火(js)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://pan.shangui.cc/f/KeMmT6/saohuo.js"
+        },
 	{
             "key": "csp_WoGG",
             "name": "清风明月",
