@@ -14,7 +14,8 @@
         {
             "key":"腾讯",
             "name":"风华绝代",
-            "type":3,"api":"./lib/drpy2.min.js",
+            "type":3,
+            "api":"./lib/drpy2.min.js",
             "ext":"./js/tengxun.js"
         },
 	{
@@ -38,14 +39,11 @@
             "ext": "https://api-aws.11ty.top"
         }, 
         {
-            "key": "骚火",
-            "name": "♻️骚火(js)",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://pan.shangui.cc/f/KeMmT6/saohuo.js"
+           "key": "畅梦",
+           "name": "天行九歌",
+           "type": 3,
+           "api": "./lib/drpy2.min.js",
+           "ext": "https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/lib/changmeng.js"
         },
 	{
             "key": "csp_WoGG",
