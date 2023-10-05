@@ -3,7 +3,7 @@
     "sites": [ 
        {
             "key":"drpy_js_豆瓣",
-            "name":"TVBox",
+            "name":"主页",
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/drpy.js",
