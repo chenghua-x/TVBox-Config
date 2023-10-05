@@ -3,7 +3,7 @@
     "sites": [ 
        {
             "key":"drpy_js_豆瓣",
-            "name":"主页",
+            "name":"Copyright by Chenghua",
             "type":3,
             "api":"./lib/drpy2.min.js",
             "ext":"./js/drpy.js",
