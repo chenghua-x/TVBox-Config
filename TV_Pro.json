@@ -30,8 +30,7 @@
        // {"key": "姐姐","name": "解析┃离琴","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dytt996.com/api.php/app/"},
    
         {"key": "csp_XYQHiker_555影视","name":"解析┃颜兮","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"},
-        {"key": "玉米","name":"解析┃幻辰","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://yumi.ghlyys.com/api.php/app/","jar": "./jar/spider.jar"},
-        {"key": "毛毛子","name":"解析┃笙歌","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod","jar": "./jar/spider.jar"},
+        
 
         {"key": "快车资源","name": "广告┃扶桑","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","战争片","动作片","香港剧"],"jar": "./jar/fan.txt"},
         {"key": "光速资源","name": "广告┃锦瑟","type": 1,"api": "http://sdzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["电影","国产剧","综艺","动漫"],"jar": "./jar/fan.txt"}
@@ -45,8 +44,6 @@
         {"name":"子墨","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/?key=kqbMl0BF9i7sdLCKtr&url="},
         {"name":"如若","type":1,"url":"http://115.231.220.36:9999/jx/tvbox/zytv.php?url="},
         {"name":"凉薄","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-        {"name":"幻辰","type":1,"url":"http://61.147.93.21:8090/index.php?url="},
-        {"name":"笙歌","type":1,"url":"http://jx.daenys.vip:2587/tjxdsg.php?url="},
         {"name":"-❀-","type":0,"url":"https://api.jiexi.la/?url="}
         ],
 "rules":[{"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}],
