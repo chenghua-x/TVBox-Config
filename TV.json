@@ -19,7 +19,8 @@
 "searchable":1,
 "quickSearch":1,
 "changeable":1,
-"ext":"https://www.tvkuys.xyz/api.php/app/"},
+"ext":"https://www.tvkuys.xyz/api.php/app/",
+"jar": "./jar/spider.jar"},
 
 	{
             "key": "csp_Nmys",
