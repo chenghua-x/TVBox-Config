@@ -12,15 +12,17 @@
             "filterable": 0
         },
 
-        {"key":"酷酷",
-"name":"酷酷",
-"api":"csp_AppYsV2",
-"type":3,
-"searchable":1,
-"quickSearch":1,
-"changeable":1,
-"ext":"https://www.tvkuys.xyz/api.php/app/",
-"jar": "./jar/spider.jar"},
+        {
+            "key":"酷酷",
+            "name":"酷酷",
+            "api":"csp_AppYsV2",
+            "type":3,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"https://www.tvkuys.xyz/api.php/app/",
+            "jar": "./jar/spider.jar"
+       },
 
 	{
             "key": "csp_Nmys",
