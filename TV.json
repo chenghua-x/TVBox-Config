@@ -11,9 +11,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-
-       
-
 	{
             "key": "csp_Nmys",
             "name": "春风十里",
@@ -24,16 +21,6 @@
             "filterable": 1,
             "ext": "./json/nm.json"
         },
-	// {
-         //   "key": "csp_YQKAPP",
-         //   "name": "空山鸟语",
-         //   "type": 3,
-         //   "api": "csp_YQKAPP",
-         //   "searchable": 1,
-         //   "quickSearch": 1,
-         //   "filterable": 1,
-          //  "ext": "https://api-aws.11ty.top"
-       // }, 
         {
            "key": "畅梦",
            "name": "天行九歌",
