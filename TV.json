@@ -11,17 +11,13 @@
             "quickSearch": 0,
             "filterable": 0
         },
-       {
-            "key":"酷酷",
+        {
+            "key": "腾讯",
             "name":"绝代风华",
-            "api":"csp_AppYsV2",
             "type":3,
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"https://www.tvkuys.xyz/api.php/app/"
-       },
-
+            "api":"./lib/drpy2.min.js",
+            "ext":"./js/tengxun.js"
+        },
 	{
             "key": "csp_Nmys",
             "name": "春风十里",
