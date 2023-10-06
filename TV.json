@@ -61,6 +61,14 @@
            "jar": "./jar/XYQ.jar"
         },
     	{
+	    "key":"荐片",
+	    "name":"一叶知秋",
+	    "type":3,
+	    "api":"./js/drpy.min.js",
+	    "playerType":1,
+	    "ext":"./js/jianpian.js"
+    	},
+    	{
 	    "key":"csp_Bttoo",
 	    "name":"风花雪月",
             "type":"0",
