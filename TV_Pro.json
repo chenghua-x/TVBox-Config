@@ -31,7 +31,7 @@
         {"key":"荐片","name":"解析┃锦书","type":3,"api":"./lib/drpy3.min.js","playerType":1,"ext":"./js/jianpian.js","jar": "./jar/spider.jar"},
         {"key": "csp_XYQHiker_555影视","name":"解析┃颜兮","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"},
         {"key":"玉米","name":"解析┃幻辰","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://yumi.ghlyys.com/api.php/app/","jar": "./jar/spider.jar"},
-        {"key":"毛毛子","name":"解析┃笙歌","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod""jar": "./jar/spider.jar"},
+        {"key":"毛毛子","name":"解析┃笙歌","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod","jar": "./jar/spider.jar"},
 
         {"key": "快车资源","name": "广告┃扶桑","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","战争片","动作片","香港剧"],"jar": "./jar/fan.txt"},
         {"key": "光速资源","name": "广告┃锦瑟","type": 1,"api": "http://sdzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["电影","国产剧","综艺","动漫"],"jar": "./jar/fan.txt"}
