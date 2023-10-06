@@ -12,7 +12,7 @@
             "filterable": 0
         },
 
-        
+        {"key":"酷酷","name":"酷酷","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
 	{
             "key": "csp_Nmys",
@@ -80,7 +80,7 @@
     ],
 "parses": [
         {"name":"-Demo-","type":0,"url":"https://jx.xmflv.com/?url="},
-        {"name":"-Json-","type":1,"url":https://jx.xn--2qux23cmstnvb.com/api/?key=kqbMl0BF9i7sdLCKtr&url="},
+        {"name":"-Json-","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/?key=kqbMl0BF9i7sdLCKtr&url="},
         {"name":"-Web-","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","parse":"1","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩","alivc"]}}
     ],
     "ijk": [
