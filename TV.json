@@ -12,11 +12,13 @@
             "filterable": 0
         },
         {
-            "key": "腾讯",
+            "key":"荐片",
             "name":"绝代风华",
             "type":3,
-            "api":"./lib/drpy2.min.js",
-            "ext":"./js/tengxun.js"
+            "api":"./lib/drpy.min.js",
+            "playerType":1,
+            "filterable":1,
+            "ext":"./js/jianpian.js"
         },
 	{
             "key": "csp_Nmys",
