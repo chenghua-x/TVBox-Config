@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://img.chenghua.icu/file/d64d209f7cc90812f7add.png",
-    "spider":"./jar/XYQ.jar;md5;9f7e10364a4d9ffbbdfef19f5c378848",
+    // "spider":"./jar/XYQ.jar;md5;9f7e10364a4d9ffbbdfef19f5c378848",
     "spider":"./jar/spider.jar",
 
 "lives": [
