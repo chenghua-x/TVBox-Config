@@ -75,6 +75,7 @@
         }
     ],
 "parses":[
+        {"name":"Demo","type":3,"url":"Demo"},
         {"name":"Json","type":2,"url":"Sequence"},
         {"name":"-🌻-","type":0,"url":"https://jx.xmflv.com/?url="},
         {"name":"-🌷-","type":0,"url":"https://api.jiexi.la/?url="},
