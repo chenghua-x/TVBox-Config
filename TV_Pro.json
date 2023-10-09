@@ -43,13 +43,14 @@
         {"key": "光速资源","name": "广告┃锦瑟","type": 1,"api": "http://sdzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["电影","国产剧","综艺","动漫"],"jar": "./jar/fan.txt"}       
     ],
 "parses":[
-        {"name":"Demo","type":0,"url":"https://api.jiexi.la/?url="},
-        {"name":"Json","type":2,"url":"Sequence"},
-        {"name":"Web","type":0,"url":"https://jx.yangtu.top/?url="},
-        {"name":"华","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-        {"name":"❀","type":1,"url":"http://61.147.93.21:8090/index.php?url="},
-        {"name":"成","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
-        {"name":"❀","type":1,"url":"https://jx.xmflv.com/?url="}
+        {"name":"解析聚合","type":3,"url":"Demo"},
+        {"name":"Json轮询","type":2,"url":"Sequence"},
+        {"name":"1","type":0,"url":"https://api.jiexi.la/?url="},
+        {"name":"2","type":0,"url":"https://jx.yangtu.top/?url="},
+        {"name":"3","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+        {"name":"4","type":1,"url":"http://61.147.93.21:8090/index.php?url="},
+        {"name":"5","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+        {"name":"6","type":1,"url":"https://jx.xmflv.com/?url="}
         ],
 "rules":[
 {"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
