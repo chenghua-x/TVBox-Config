@@ -78,14 +78,11 @@
         }
     ],
 "parses":[
-        {"name":"Demo","type":2,"url":"Sequence"},
-        {"name":"Web","type":0,"url":"https://jx.xmflv.com/?url="},
-        {"name":"-🌼-","type":1,"url":"https://jx.xn--2qux23cmstnvb.com/api/?key=kqbMl0BF9i7sdLCKtr&url="},
-        {"name":"-🍁-","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
-        {"name":"-🌷-","type":1,"url":"http://61.147.93.21:8090/index.php?url="}
+        {"name":"Demo","type":1,"url":"http://61.147.93.21:8090/index.php?url="},
+        {"name":"Json","type":0,"url":"https://jx.xmflv.com/?url="}
         ],
 "flags":
-["youku","qq","QQ","iqiyi","qiqi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","FEI","XAL","QEYSS","aliyun","AliS","ddzy","kuying-zj","xfyun","wuduzy","wasu","bilibili","renrenmi","haiwaikan","cool","tnmb","xigua","m1905","funshion","imgo","ruyi1080","ruyib1080","juquan4k","tucheng","yzm","seven","caihong","YuMi-vip","youku","优酷","优 酷","优酷视频","腾讯","腾 讯","腾讯视频","奇艺","爱奇艺","爱 奇 艺","乐视","乐 视","搜狐","搜 狐","搜狐视频","芒果","芒果TV","芒 果 T V","哔 哩","哔 哩 哔 哩"],
+["youku","qq","QQ","iqiyi","qiqi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","sn","SLYS4k","FEI","XAL","QEYSS","aliyun","AliS","ddzy","kuying-zj","xfyun","wuduzy","wasu","bilibili","renrenmi","haiwaikan","cool","tnmb","xigua","m1905","funshion","imgo","ruyi1080","ruyib1080","juquan4k","tucheng","yzm","seven","caihong","YuMi-vip","youku","优酷","优 酷","优酷视频","腾讯","腾 讯","腾讯视频","奇艺","爱奇艺","爱 奇 艺","乐视","乐 视","搜狐","搜 狐","搜狐视频","芒果","芒果TV","芒 果 T V","哔 哩","哔 哩 哔 哩"],
     "ijk": [
         {
             "group": "软解码",
