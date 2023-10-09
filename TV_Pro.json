@@ -45,12 +45,13 @@
 "parses":[
         {"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Json轮询","type":2,"url":"Sequence"},
-        {"name":"1","type":0,"url":"https://api.jiexi.la/?url="},
-        {"name":"2","type":1,"url":"https://jx.yangtu.top/?url="},
+        {"name":"1","type":0,"url":"https://jx.yangtu.top/?url="},
+        {"name":"2","type":0,"url":"https://jx.xmflv.com/?url="}, 
         {"name":"3","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
         {"name":"4","type":1,"url":"http://61.147.93.21:8090/index.php?url="},
         {"name":"5","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
-        {"name":"6","type":0,"url":"https://jx.xmflv.com/?url="}
+        {"name":"6","type":0,"url":"https://api.jiexi.la/?url="}
+
         ],
 "rules":[
 {"name":"量子","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
