@@ -47,7 +47,7 @@
         {"name":"-成-","type":0,"url":"https://jx.xmflv.com/?url="}, 
         {"name":"-华-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     //  {"name":"-❀-","type":0,"url":"https://api.jiexi.la/?url="}, 
-        {"name":"-❀-","type":0,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="}
+        {"name":"-❀-","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="}
     
 
         ],
