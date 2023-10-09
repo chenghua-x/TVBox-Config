@@ -36,6 +36,7 @@
            "quickSearch":1,
            "changeable":1,
            "ext": "http://yycms.77ev.cn/api.php/app/"
+           "jar":"./jar/spider.jar"
         },
 	{
             "key": "csp_WoGG",
