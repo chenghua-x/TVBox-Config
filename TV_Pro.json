@@ -43,7 +43,7 @@
         {"key": "光速资源","name": "广告┃锦瑟","type": 1,"api": "http://sdzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["电影","国产剧","综艺","动漫"],"jar": "./jar/fan.txt"}       
     ],
 "parses":[
-        {"name":"-❀-","type":0,"url":"https://jx.yangtu.top/?url="},
+        {"name":"-❀-","type":1,"url":"https://jx.yangtu.top/?url="},
         {"name":"-成-","type":0,"url":"https://jx.xmflv.com/?url="}, 
         {"name":"-华-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
     //  {"name":"-❀-","type":0,"url":"https://api.jiexi.la/?url="}, 
