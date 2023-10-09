@@ -28,14 +28,14 @@
            "ext": "./js/changmeng.js"
         },
         {
-           "key": "世界",
+           "key": "玉米",
            "name": "一叶知秋",
            "type": 3,
            "api":"csp_AppYsV2",
            "searchable": 1,
            "quickSearch":1,
            "changeable":1,
-           "ext": "http://yycms.77ev.cn/api.php/app/"
+           "ext": "http://yumi.ghlyys.com/api.php/app/"
            
         },
 	{
