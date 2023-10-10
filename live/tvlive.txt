@@ -228,7 +228,7 @@ CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV15,http://111.40.196.31/PLTV/88888888/224/3221225500/index.m3u8
 CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8?
-CCTV17,http://111.20.35.103:6610/yinhe/2/ch00000090990000001301/index.m3u8
+
 
 
 
@@ -258,7 +258,6 @@ CCTV17,http://111.20.35.103:6610/yinhe/2/ch00000090990000001301/index.m3u8
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-凤凰卫视,http://113.64.147.60:8081/hls/37/index.m3u8
 凤凰卫视,http://113.64.147.152:8081/hls/37/index.m3u8
 
 
