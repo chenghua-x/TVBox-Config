@@ -35,7 +35,8 @@
            "searchable": 1,
            "quickSearch":1,
            "changeable":1,
-           "ext": "http://yumi.ghlyys.com/api.php/app/"  
+           "ext": "http://yumi.ghlyys.com/api.php/app/",
+           "jar":"./jar/spider.jar"  
         },
         {
            "key":"橘子",
