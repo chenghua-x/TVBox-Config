@@ -21,13 +21,6 @@
             "ext": "./json/nm.json"
         },
         {
-           "key": "畅梦",
-           "name": "天行九歌",
-           "type": 3,
-           "api": "./lib/drpy2.min.js",
-           "ext": "./js/changmeng.js"
-        },
-        {
            "key": "玉米",
            "name": "一叶知秋",
            "type": 3,
@@ -40,7 +33,7 @@
         },
         {
            "key":"橘子",
-           "name":"如花似梦",
+           "name":"天行九歌",
            "type":3,
            "api":"csp_Appto",
            "searchable":1,
