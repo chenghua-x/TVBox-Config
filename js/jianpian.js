@@ -70,3 +70,4 @@ var rule = {
     },
     搜索:'json:data;*;thumbnail;mask;*',
 }
+
