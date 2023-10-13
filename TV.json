@@ -21,17 +21,6 @@
             "ext": "./json/nm.json"
         },
         {
-           "key": "玉米",
-           "name": "一叶知秋",
-           "type": 3,
-           "api":"csp_AppYsV2",
-           "searchable": 1,
-           "quickSearch":1,
-           "changeable":1,
-           "ext": "http://yumi.ghlyys.com/api.php/app/",
-           "jar":"./jar/spider.jar"  
-        },
-        {
            "key":"橘子",
            "name":"天行九歌",
            "type":3,
@@ -312,5 +301,5 @@
         "cms.qdwght.com"
     ], 
 	"wallpaper": "https://img.chenghua.icu/file/d64d209f7cc90812f7add.png",
-	"spider": "./jar/cc.jar ;md5;09baf4a03d362d96f0fc14085c343191"
+	"spider": "./jar/spider.jar ;md5;09baf4a03d362d96f0fc14085c343191"
 }
