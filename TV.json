@@ -21,15 +21,15 @@
             "ext": "./json/nm.json"
         },
         {
-           "key":"橘子",
-           "name":"天行九歌",
-           "type":3,
-           "api":"csp_Appto",
-           "searchable":1,
-           "quickSearch":1,
-           "changeable":1,
-           "ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ",
-           "jar":"./jar/spider.jar"
+            "key":"JOJO",
+            "name":"一叶知秋",
+            "type":3,
+            "jar":"./jar/1013.jar",
+            "api": "csp_Jiohub",
+            "searchable":1,
+            "filterable":1,
+            "changeable":1,
+            "ext":{"danmu": true}
         },
 	{
             "key": "csp_WoGG",
