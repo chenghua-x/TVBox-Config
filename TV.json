@@ -52,6 +52,17 @@
            "ext":"./json/555.json",
            "jar": "./jar/XYQ.jar"
         },
+        {
+        "key":"次元城",
+        "name":"空谷幽兰",
+        "type":3,
+        "api":"csp_Cycdm",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"http://app.95189371.cn/ciyuancheng.php/v6/",
+        "jar":"./jar/spider.jar"
+        },
     	{
 	    "key":"csp_Bttoo",
 	    "name":"风花雪月",
