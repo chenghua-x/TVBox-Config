@@ -2,14 +2,16 @@
 {
     "sites": [ 
         {
-            "key": "荐片",
-            "name": "绝代风华",
+            "key":"荐片",
+            "name":"倾城繁华",
             "type": 3,
-            "api": "./lib/drpy.min.js",
-            "playerType": 1,
+            "api":"csp_Jianpian",
+            "jar": "./jar/1013.jar",
+            "searchable":1,
+            "quickSearch":1,
             "filterable":1,
-            "ext": "./js/jianpian.js"
-        },
+            "ext": {"danmu": true}
+	},
 	{
             "key": "csp_Nmys",
             "name": "春风十里",
