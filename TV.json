@@ -23,8 +23,8 @@
             "ext": "./json/nm.json"
         },
         {
-            "key":"玉米",
-            "name":"玉米",
+            "key":"世界",
+            "name":"一叶知秋",
             "type":3,
             "api":"csp_AppYsV2",
             "searchable":1,
