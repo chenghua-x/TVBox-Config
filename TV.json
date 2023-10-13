@@ -301,5 +301,5 @@
         "cms.qdwght.com"
     ], 
 	"wallpaper": "https://img.chenghua.icu/file/d64d209f7cc90812f7add.png",
-	"spider": "./jar/spider.jar ;md5;09baf4a03d362d96f0fc14085c343191"
+	"spider": "./jar/cc.jar ;md5;09baf4a03d362d96f0fc14085c343191"
 }
