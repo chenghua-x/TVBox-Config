@@ -23,15 +23,14 @@
             "ext": "./json/nm.json"
         },
         {
-            "key":"JOJO",
-            "name":"一叶知秋",
+            "key":"玉米",
+            "name":"玉米",
             "type":3,
-            "jar":"./jar/1013.jar",
-            "api": "csp_Jiohub",
+            "api":"csp_AppYsV2",
             "searchable":1,
-            "filterable":1,
+            "quickSearch":1,
             "changeable":1,
-            "ext":{"danmu": true}
+            "ext":"http://yycms.77ev.cn/api.php/app/"
         },
 	{
             "key": "csp_WoGG",
@@ -55,15 +54,15 @@
            "jar": "./jar/XYQ.jar"
         },
         {
-        "key":"次元城",
-        "name":"空谷幽兰",
-        "type":3,
-        "api":"csp_Cycdm",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"http://app.95189371.cn/ciyuancheng.php/v6/",
-        "jar":"./jar/spider.jar"
+          "key":"次元城",
+          "name":"空谷幽兰",
+          "type":3,
+          "api":"csp_Cycdm",
+          "searchable":1,
+          "quickSearch":1,
+          "filterable":1,
+          "ext":"http://app.95189371.cn/ciyuancheng.php/v6/",
+          "jar":"./jar/spider.jar"
         },
     	{
 	    "key":"csp_Bttoo",
