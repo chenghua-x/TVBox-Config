@@ -12,6 +12,13 @@
          "ext": {"danmu": true}
     },
     {
+         "key": "腾讯",
+         "name":"天行九歌",
+         "type":3,
+         "api":"./lib/drpy2.min.js",
+         "ext":"./js/tengxun.js"
+    },
+    {
         "key":"落叶城",
         "name":"一叶知秋",
         "api":"csp_AppYsV2",
