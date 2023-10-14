@@ -41,6 +41,15 @@
         "filterable": 1
     },
     {
+        "key":"csp_Bttoo",
+        "name":"风花雪月",
+        "type":"0",
+        "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+        "searchable":"1",
+        "changeable":"1",
+        "categories":["国产动漫","日韩动漫","电影片","连续剧"]
+    },
+    {
           "key":"次元城",
           "name":"Copyright by Chenghua",
           "type":3,
