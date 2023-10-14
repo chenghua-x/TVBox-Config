@@ -31,7 +31,6 @@
         "filterable": 1,
         "ext": "./json/nm.json"
     },
- {"key":"csp_Kunyu77","name":"解析┃子墨","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {
         "key": "xml_玩偶",
         "name": "清风明月",
