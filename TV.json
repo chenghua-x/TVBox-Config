@@ -41,7 +41,7 @@
         "searchable":1,
         "filterable":1,
         "changeable":1,
-        "ext": {"token":"https://ghproxy.com/raw.githubusercontent.com/chenghua-x/TVBox-Config/master/lib/token.txt","filter": "./json/wogg.json","danmu": true}
+        "ext": {"token":"https://ghproxy.com/raw.githubusercontent.com/chenghua-x/TVBox-Config/master/lib/token.txt","danmu": true}
     },
     {
           "key":"次元城",
