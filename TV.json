@@ -22,17 +22,6 @@
         "ext":"http://111.230.51.151:6969/api.php/app/"
     },
     {
-        "key": "csp_Nmys",
-        "name": "春风十里",
-        "type": 3,
-        "api": "csp_Nmys",    
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "./json/nm.json",
-        "jar": "./jar/cc.jar"
-    },
-    {
         "key": "xml_玩偶",
         "name": "清风明月",
         "type": 4,
@@ -43,7 +32,7 @@
     },
     {
         "key": "畅梦",
-        "name": "风花雪月",
+        "name": "春风十里",
         "type": 3,
         "api": "./lib/drpy2.min.js",
         "ext": "./js/changmeng.js"
