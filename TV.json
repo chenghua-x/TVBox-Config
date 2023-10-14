@@ -12,13 +12,6 @@
          "ext": {"danmu": true}
     },
     {
-         "key": "腾讯",
-         "name":"天行九歌",
-         "type":3,
-         "api":"./lib/drpy2.min.js",
-         "ext":"./js/tengxun.js"
-    },
-    {
         "key":"落叶城",
         "name":"一叶知秋",
         "api":"csp_AppYsV2",
@@ -48,13 +41,11 @@
         "filterable": 1
     },
     {
-        "key":"csp_Bttoo",
-        "name":"风花雪月",
-        "type":"0",
-        "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-        "searchable":"1",
-        "changeable":"1",
-        "categories":["国产动漫","日韩动漫","电影片","连续剧"]
+        "key": "畅梦",
+        "name": "风花雪月",
+        "type": 3,
+        "api": "./lib/drpy2.min.js",
+        "ext": "./js/changmeng.js"
     },
     {
           "key":"次元城",
