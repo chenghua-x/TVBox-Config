@@ -17,20 +17,21 @@
             "name": "春风十里",
             "type": 3,
             "api": "csp_Nmys",
+            "jar": "./jar/cc.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/nm.json"
         },
         {
-        "key":"落叶城",
-        "name":"一叶知秋",
-        "api":"csp_AppYsV2",
-        "type":3,
-        "searchable":1,
-        "quickSearch":1,
-        "changeable":1,
-        "ext":"http://111.230.51.151:6969/api.php/app/"
+            "key":"落叶城",
+            "name":"一叶知秋",
+            "api":"csp_AppYsV2",
+            "type":3,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1,
+            "ext":"http://111.230.51.151:6969/api.php/app/"
         },
 	{
             "key": "csp_WoGG",
@@ -313,5 +314,5 @@
         "cms.qdwght.com"
     ], 
 	"wallpaper": "https://img.chenghua.icu/file/d64d209f7cc90812f7add.png",
-	"spider": "./jar/XYQ.jar ;md5;09baf4a03d362d96f0fc14085c343191"
+	"spider": "./jar/spider.jar ;md5;09baf4a03d362d96f0fc14085c343191"
 }
