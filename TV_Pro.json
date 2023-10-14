@@ -42,6 +42,8 @@
         {"key":"易搜","name":"云盘┃浅汐","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/chenghua-x/TVBox-Config/master/lib/token.txt","jar":"./jar/fm.jar"},
         {"key": "xml_玩偶","name": "云盘┃离琴","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=680004e6f912449db01d407c78661c79","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key": "快车资源","name": "广告┃扶桑","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","战争片","动作片","香港剧"],"jar": "./jar/fan.txt"},
+   //   {"key":"csp_Bttoo","name":"风花雪月","type":"0","api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","电影片","连续剧"]},
+
         {"key": "光速资源","name": "广告┃锦瑟","type": 1,"api": "http://sdzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["电影","国产剧","综艺","动漫"],"jar": "./jar/fan.txt"}       
     ],
 "parses":[
