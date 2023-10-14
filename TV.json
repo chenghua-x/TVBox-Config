@@ -22,16 +22,6 @@
             "filterable": 1,
             "ext": "./json/nm.json"
         },
-        {
-            "key":"世界",
-            "name":"一叶知秋",
-            "type":3,
-            "api":"csp_AppYsV2",
-            "searchable":1,
-            "quickSearch":1,
-            "changeable":1,
-            "ext":"http://yycms.77ev.cn/api.php/app/"
-        },
 	{
             "key": "csp_WoGG",
             "name": "清风明月",
@@ -83,7 +73,7 @@
         }
     ],
 "parses":[
-        {"name":"Demo","type":1,"url":"http://61.147.93.21:8090/index.php?url="},
+        {"name":"Demo","type":1,"url":"http://pandown.pro/app/kkdy.php?url="},
         {"name":"Json","type":0,"url":"https://jx.xmflv.com/?url="}
         ],
 "flags":
