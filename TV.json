@@ -33,13 +33,15 @@
     },
 
     {
-        "key": "xml_玩偶",
-        "name": "清风明月",
-        "type": 4,
-        "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=680004e6f912449db01d407c78661c79",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
+        "key":"玩偶",
+        "name":"清风明月",
+        "type":3,
+        "jar":"./jar/1013.jar",
+        "api": "csp_Wogg",
+        "searchable":1,
+        "filterable":1,
+        "changeable":1,
+        "ext": {"token":"https://ghproxy.com/raw.githubusercontent.com/chenghua-x/TVBox-Config/master/lib/token.txt","filter": "./json/wogg.json","danmu": true}
     },
     {
           "key":"次元城",
