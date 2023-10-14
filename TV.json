@@ -37,7 +37,7 @@
             "name": "清风明月",
             "type": 3,
             "api": "csp_WoGG",
-            "jar": "./jar/cc.jar"
+            "jar": "./jar/cc.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
