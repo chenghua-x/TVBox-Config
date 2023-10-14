@@ -22,6 +22,16 @@
             "filterable": 1,
             "ext": "./json/nm.json"
         },
+        {
+        "key":"落叶城",
+        "name":"一叶知秋",
+        "api":"csp_AppYsV2",
+        "type":3,
+        "searchable":1,
+        "quickSearch":1,
+        "changeable":1,
+        "ext":"http://111.230.51.151:6969/api.php/app/"
+        },
 	{
             "key": "csp_WoGG",
             "name": "清风明月",
