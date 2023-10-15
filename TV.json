@@ -29,7 +29,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+        "jar": "./jar/fan.txt"
     },
     {
         "key": "畅梦",
