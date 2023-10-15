@@ -29,6 +29,37 @@
         {"key":"drpy_js_网易公版影像","name":"资源┃记录","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/jilu.js"},
    //   {"key":"荐片","name":"资源┃荐片","type":3,"api":"./lib/drpy.min.js","playerType":1,"filterable":1,"ext":"./js/jianpian.js"},
         {"key": "畅梦","name": "资源┃畅梦","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/changmeng.js"},
+{
+            "key": "虎牙直播js",
+            "name": "🐯虎牙┃直播",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "./jar/fan.txt"
+
+        },
+        {
+            "key": "csp_XYQBiu_斗鱼",
+            "name": "🐟斗鱼┃直播",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "./jar/fan.txt"
+        },
 
    //   {"key":"玉米","name":"解析┃君止","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://yumi.ghlyys.com/api.php/app/"},
   //    {"key":"世界","name":"解析┃子墨","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://yycms.77ev.cn/api.php/app/"},
@@ -37,7 +68,7 @@
      // {"key": "csp_WoGG","name": "解析┃如若","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/raw.githubusercontent.com/chenghua-x/TVBox-Config/master/lib/token_pro.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
      // {"key": "yc","name": "解析┃凉薄","type": 3,"playerType": 1,"api": "csp_Hdhive","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/p5RUL/tk.php","jar": "./jar/xry.jar"},
      // {"key": "姐姐","name": "解析┃离琴","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dytt996.com/api.php/app/"},
-     //   {"key":"橘子影视","name":"解析┃如若","type":3,"api":"csp_Appto","playerType":2,"ext":"wu6uHHTlIT/13WUA6ax05DFsT+PSNlvLlDqf+wO0JxJXYbCJHutGxRHGftDKPD559TQ8wBa1o9WTSLR7lNQwHsnvFoByNyLD9u8iMrtN0Z5AHPTHkdiITcclNqJ+UT5ADAiHpr09kRxSGnTcXW3/7zcABvNADuAbAQZR6k9lJr+F/Fe/fQlPxY338Viyh3lo9SVdYq5hM4HPKX9lNPOON7PX4n2nzB42uGnil5A+ZFqEziv0nAMtpqR4FeEYkNC/yUOPfjkUVF7oyBEwl+DwetJf6N3SsojmTp0aXa7FAUcISNWnw5AxK0ZFzOfiGgPmiDIdrgKlNVZos0RtdWasairsqjJOtoV/cF5XDXsD4HKPs7y36OA8hWdEv+xVFA7yS27j54hcVbEGJhSXGL2xaZ1sFWtj5lQu6kPjWHk1A6QAuaWS8sklmaS0qFAcYTFff6iXbDoCQLr3GghnbDFUgulnMBYDKAcbd2KdXUJMYECA2QHGR19IFvOySumD5E0iOTr0qZtsqPHruB18ffb4C1isAHlSFjpjRqa0Tmd6rxFW5zV3+la1krFIMHiqJriwYkidL6Orf5cEaMIjifhiTbgyE88nmVN82diEPcOPPuLl3AoP5bIal/z+eT2TBmdBlsWLyPtTP0/+oj8cPE10bfxpQwoPm8k6NWjvokERrpmc=","jar":"./jar/1013.jar"},
+     // {"key":"橘子影视","name":"解析┃如若","type":3,"api":"csp_Appto","playerType":2,"ext":"wu6uHHTlIT/13WUA6ax05DFsT+PSNlvLlDqf+wO0JxJXYbCJHutGxRHGftDKPD559TQ8wBa1o9WTSLR7lNQwHsnvFoByNyLD9u8iMrtN0Z5AHPTHkdiITcclNqJ+UT5ADAiHpr09kRxSGnTcXW3/7zcABvNADuAbAQZR6k9lJr+F/Fe/fQlPxY338Viyh3lo9SVdYq5hM4HPKX9lNPOON7PX4n2nzB42uGnil5A+ZFqEziv0nAMtpqR4FeEYkNC/yUOPfjkUVF7oyBEwl+DwetJf6N3SsojmTp0aXa7FAUcISNWnw5AxK0ZFzOfiGgPmiDIdrgKlNVZos0RtdWasairsqjJOtoV/cF5XDXsD4HKPs7y36OA8hWdEv+xVFA7yS27j54hcVbEGJhSXGL2xaZ1sFWtj5lQu6kPjWHk1A6QAuaWS8sklmaS0qFAcYTFff6iXbDoCQLr3GghnbDFUgulnMBYDKAcbd2KdXUJMYECA2QHGR19IFvOySumD5E0iOTr0qZtsqPHruB18ffb4C1isAHlSFjpjRqa0Tmd6rxFW5zV3+la1krFIMHiqJriwYkidL6Orf5cEaMIjifhiTbgyE88nmVN82diEPcOPPuLl3AoP5bIal/z+eT2TBmdBlsWLyPtTP0/+oj8cPE10bfxpQwoPm8k6NWjvokERrpmc=","jar":"./jar/1013.jar"},
         {"key": "csp_Nmys","name": "解析┃如若","type": 3, "api": "csp_Nmys",    "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nm.json","jar": "./jar/cc.jar"},
         {"key": "csp_XYQHiker_555影视","name":"解析┃颜兮","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"},
         {"key":"易搜","name":"云盘┃浅汐","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/chenghua-x/TVBox-Config/master/lib/token.txt","jar":"./jar/fm.jar"},
@@ -51,6 +82,7 @@
         {"name":"Demo","type":3,"url":"Demo"},
         {"name":"Json","type":2,"url":"Sequence"},
         {"name":"-❀-","type":0,"url":"https://jx.xmflv.com/?url="}, 
+        {"name":"-❀-","type":0,"url":"http://119.91.123.253:1234/Api/cs.php?url="}, 
         {"name":"-❀-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
         {"name":"-❀-","type":0,"url":"https://api.jiexi.la/?url="}, 
         {"name":"-❀-","type":0,"url":"https://jx.yangtu.top/?url="},
