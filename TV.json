@@ -22,13 +22,14 @@
         "ext":"http://111.230.51.151:6969/api.php/app/"
     },
     {
-        "key": "xml_玩偶",
+        "key": "csp_WoGG",
         "name": "清风明月",
-        "type": 4,
-        "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=1600a5ab4e614bb98c8e510af214a3dc",
+        "type": 3,
+        "api": "csp_WoGG",
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 1
+        "changeable": 0,
+        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
     },
     {
         "key": "畅梦",
