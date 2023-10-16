@@ -7,12 +7,7 @@
       "name": "live",
       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u",
-      "playerType": 1,
-      "header": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
-      },
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/ing/{name}.png"
     }
   ],
     "sites": 
