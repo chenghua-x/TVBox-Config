@@ -25,7 +25,7 @@
      // {"key": "csp_XYQBiu_网易CC直播","name": "直播","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./json/wangyi.json"},
 
         {"key": "drpy_js_310直播","name":"资源┃体育","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/310.js"},    
-	{"key": "csp_Yj1211","name": "资源┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fan.txt"},
+	{"key": "csp_Yj1211","name": "资源┃直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/XYQ.jar"},
         {"key":"drpy_js_网易公版影像","name":"资源┃记录","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/jilu.js"},
         {"key": "畅梦","name": "资源┃畅梦","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/changmeng.js"},
         {"key": "虎牙直播js","name": "虎牙┃直播","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","style": {"type": "rect","ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar": "./jar/fan.txt" },
@@ -45,9 +45,9 @@
         {"key": "csp_WoGG","name": "云盘┃玩偶","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar": "./jar/fan.txt"},
         {"key": "77","name": "云盘┃浅汐","type": 3,"api": "csp_Kunyu77", "searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/fan.txt"},
         {"key": "快车资源","name": "广告┃扶桑","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","战争片","动作片","香港剧"],"jar": "./jar/fan.txt"},
-   //   {"key":"csp_Bttoo","name":"风花雪月","type":"0","api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","电影片","连续剧"]},
+        {"key":"csp_Bttoo","name":"广告┃量子","type":"0","api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","电影片","连续剧"]},
 
-        {"key": "光速资源","name": "广告┃锦瑟","type": 1,"api": "http://sdzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["电影","国产剧","综艺","动漫"],"jar": "./jar/fan.txt"}       
+   //   {"key": "光速资源","name": "广告┃锦瑟","type": 1,"api": "http://sdzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["电影","国产剧","综艺","动漫"],"jar": "./jar/fan.txt"}       
     ],
 "parses":[
         {"name":"Demo","type":3,"url":"Demo"},
