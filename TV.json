@@ -23,7 +23,7 @@
 
 "sites": [ 
 {"key":"荐片","name":"倾城繁华","type": 3,"api":"csp_Jianpian","jar": "./jar/1013.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}},
-{"key":"落叶城","name":"一叶知秋","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://111.230.51.151:6969/api.php/app/"},
+{"key":"落叶城","name":"一叶知秋","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"JOJO","name":"天行九歌","type":3,"jar":"./jar/1013.jar","api": "csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu": true}},
 {"key":"xml_玩偶","name": "清风明月","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画&token=680004e6f912449db01d407c78661c79","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"畅梦","name": "春风十里","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/changmeng.js"},
