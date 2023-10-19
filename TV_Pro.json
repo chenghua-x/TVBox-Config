@@ -7,7 +7,7 @@
       "name": "live",
       "type": 0,
       "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
     "sites": 
@@ -40,7 +40,7 @@
         {"key":"易搜","name":"云盘┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
         {"key": "csp_WoGG","name": "云盘┃玩偶","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar": "./jar/fan.txt"},
         {"key": "快车资源","name": "广告┃扶桑","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","战争片","动作片","香港剧"],"jar": "./jar/fan.txt"},
-        {"key":"csp_Bttoo","name":"广告┃量子","type":"0","api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","电影片","连续剧"]}     
+        {"key":"csp_Bttoo","name":"广告┃量子","type": 0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","电影片","连续剧"]}     
     ],
 "parses":[
         {"name":"Demo","type":3,"url":"Demo"},
