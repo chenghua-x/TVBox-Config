@@ -30,8 +30,7 @@
 ],
 
 "parses":[
-    {"name":"正片","type":0,"url":"https://jx.xmflv.com/?url="},
-    {"name":"❀","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url="},
+    {"name":"正片","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url=","ext":{"flag":["qq"]}},
     {"name":"预告","type":0,"url":"https://jx.yangtu.top/?url=","ext":{"flag":["qq预告及花絮"]}}
 ],
 "flags":
