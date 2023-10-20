@@ -31,6 +31,7 @@
 
 "parses":[
     {"name":"但行好事","type":0,"url":"https://jx.xmflv.com/?url="},
+    {"name":"❀","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url="},
     {"name":"莫问前程","type":0,"url":"https://jx.yangtu.top/?url=","ext":{"flag":["qq","腾讯"]}}
 ],
 "flags":
