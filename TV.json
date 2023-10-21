@@ -26,13 +26,12 @@
 {"key":"落叶城","name":"一叶知秋","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"xml_玩偶","name": "清风明月","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画&token=680004e6f912449db01d407c78661c79","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"畅梦","name": "春风十里","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/changmeng.js"},
-{"key": "腾讯","name":"天行九歌","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 {"key":"次元城","name":"Copyright by Chenghua","type":3,"api":"csp_Cycdm","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.95189371.cn/ciyuancheng.php/v6/"}
 ],
 
 "parses":[
-    {"name":"正片","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url=","ext":{"flag":["qq"]}},
-    {"name":"预告","type":0,"url":"https://jx.yangtu.top/?url=","ext":{"flag":["qq预告及花絮"]}}
+    {"name":"但行好事","type":1,"url":"http://119.91.123.253:1234/Api/cs.php?url=","ext":{"flag":["qq"]}},
+    {"name":"莫问前程","type":0,"url":"https://jx.yangtu.top/?url=","ext":{"flag":["qq预告及花絮"]}}
 ],
 "flags":
 ["youku","qq","QQ","iqiyi","qiqi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","FEI","XAL","QEYSS","aliyun","AliS","ddzy","kuying-zj","xfyun","wuduzy","wasu","bilibili","renrenmi","haiwaikan","cool","tnmb","xigua","m1905","funshion","imgo","ruyi1080","ruyib1080","juquan4k","tucheng","yzm","seven","caihong","YuMi-vip"],
