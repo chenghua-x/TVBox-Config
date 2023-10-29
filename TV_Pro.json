@@ -16,7 +16,7 @@
         {"key": "芒果","name":"官方┃芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
         {"key": "虎牙直播js","name": "直播┃虎牙","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","style": {"type": "rect","ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar": "./jar/fan.txt" },
         {"key": "csp_XYQBiu_斗鱼","name": "直播┃斗鱼","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","style": {"type": "rect","ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar": "./jar/fan.txt"}, 
-        {"key":"荐片","name":"解析┃天行","type": 3,"api":"csp_Jianpian","jar":"./jar/1019.jar","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/at/json"},
+        {"key":"落叶城","name":"解析┃倾城","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/at/json"},
         {"key": "csp_Nmys","name": "解析┃如若","type": 3, "api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nm.json","jar": "./jar/cc.jar"},
         {"key": "drpy_js_310直播","name":"资源┃体育","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/310.js"},        
         {"key":"drpy_js_网易公版影像","name":"资源┃记录","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/jilu.js"},
