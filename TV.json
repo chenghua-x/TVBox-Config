@@ -7,7 +7,7 @@
     {
             "name": "live",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/chenghua-x/TVBox-Config/master/live/tvlive.txt",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/chenghua-x/TVBox-Config/master/live/tvlive.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
     ],
@@ -26,7 +26,6 @@
 {"key":"落叶城","name":"一叶知秋","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"荐片","name":"倾城繁华","type": 3,"api":"csp_Jianpian","jar": "./jar/1013.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}},
 {"key":"xml_玩偶","name":"清风明月","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画&token=680004e6f912449db01d407c78661c79","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"畅梦","name":"佳期如梦","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/changmeng.js"},
 {"key":"次元城","name":"朝花夕拾","type":3,"api":"csp_Cycdm","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.95189371.cn/ciyuancheng.php/v6/"}
 ],
 "parses":[
