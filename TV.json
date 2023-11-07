@@ -22,10 +22,10 @@
 {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}],
 
 "sites": [ 
-{"key":"荐片","name":"倾城繁华","type": 3,"api":"csp_Jianpian","jar": "./jar/1013.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}},
+{"key":"荐片","name":"倾城繁华","type": 3,"api":"csp_Jianpian","jar": "https://mp-88c64fe6-d83f-4669-8644-8b4f53c88446.cdn.bspapp.com/1013.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}},
 {"key":"影图","name":"朝花夕拾","type": 1,"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod ","searchable": 1,"quickSearch": 1},
 {"key":"落叶城","name":"一叶知秋","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
-{"key": "csp_WoGG","name": "清风明月","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"},
+{"key":"csp_WoGG","name": "清风明月","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/"},
 {"key":"次元城","name":"Copyright by Chenghua","type":3,"api":"csp_Cycdm","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.95189371.cn/ciyuancheng.php/v6/"}
 ],
 
