@@ -22,8 +22,8 @@
 {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}],
 
 "sites": [ 
-{"key":"荐片","name":"倾城繁华","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}},
 {"key":"影图","name":"朝花夕拾","type": 1,"api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod","searchable": 1,"quickSearch": 1},
+{"key":"荐片","name":"倾城繁华","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}},
 {"key":"落叶城","name":"一叶知秋","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/","jar": "./jar/spider.jar"},
 {"key":"csp_WoGG","name":"清风明月","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/","jar": "./jar/spider.jar"},
 {"key":"次元城","name":"Copyright by Chenghua","type":3,"api":"csp_Cycdm","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.95189371.cn/ciyuancheng.php/v6/","jar": "./jar/spider.jar"}
