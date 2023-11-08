@@ -13,7 +13,7 @@
     ],
 
 "sites": [ 
-{"key":"荐片","name":"Copyright by Chenghua","type": 3,"api":"csp_Jianpian","jar":"./jar/1013.jar","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}}
+{"key":"荐片","name":"Copyright by Chenghua","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}}
 ],
 
 "parses":[
