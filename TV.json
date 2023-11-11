@@ -32,7 +32,7 @@
 {"name":"索尼","hosts":["snzycdn","suonizy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8.333333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"沿途","hosts":["jx.yangtu.top"],"regex":["download4.caiyun.feixin.10086.cn","/servlet/"]},
 {"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
-{"name":"抖音",hosts":["douyin.com"],"regex":["is_play_url="]}],
+{"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}],
 
 
 "ijk":[
