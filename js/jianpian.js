@@ -42,7 +42,7 @@ var rule = {
     tabs:`js:
             TABS = [];
             if (html.data.have_ftp_ur == 1) {
-                TABS.push("超清[观影后,记得清理缓存]")
+                TABS.push("超清")
             }
             if (html.data.have_m3u8_ur == 1) {
                 TABS.push("普清")
