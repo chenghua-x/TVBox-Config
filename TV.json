@@ -1,7 +1,7 @@
 {
-"spider":"./jar/1013.jar",
+"spider":"./jar/wogg.jar",
 "wallpaper":"https://img.chenghua.icu/file/d64d209f7cc90812f7add.png",
-"warningText":"",
+"warningText":"长安归故里，故里有长安",
 
 "lives": [
     {
@@ -13,15 +13,27 @@
     ],
 
 "sites": [ 
-{"key":"荐片","name":"Copyright by Chenghua","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext": {"danmu": true}}
+{"key":"荐片","name":"他乡遇故知","type":3,"api":"./lib/drpy.min.js","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"./js/jianpian.js"},
+{"key":"JOJO","name":"金榜题名时","type":3,"jar":"./jar/jojo.jar","api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1},
+{"key":"玩偶","name":"洞房花烛夜","type":3,"jar":"./jar/wogg.jar","api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"ext": {"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","filter": "./json/wogg.json","danmu": false}}
 ],
-
 "parses":[
     {"name":"但行好事","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["腾讯视频","优酷视频","奇艺视频","芒果视频"]}},
     {"name":"莫问归期","type":1,"url":"http://jx.yangtu.top/?url="}
 ],
 "flags":
 ["youku","qq","QQ","iqiyi","qiqi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv"],
+
+"rules":[
+{"name":"量子","hosts":["vip.lz","hd.lz","v.cdnlz","v.cdnlz1"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"暴风","hosts":["bfzy","s1.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"蜗牛","hosts":["vip.123pan.cn","rescdn.wuxivlog.cn"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"索尼","hosts":["snzycdn","suonizy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8.333333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"沿途","hosts":["jx.yangtu.top"],"regex":["download4.caiyun.feixin.10086.cn","/servlet/"]},
+{"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"抖音",hosts":["douyin.com"],"regex":["is_play_url="]}],
+
 
 "ijk":[
 {"group":"软解码","options":[
