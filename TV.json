@@ -15,7 +15,7 @@
 "sites": [ 
 {"key":"荐片","name":"他乡遇故知","type":3,"api":"./lib/drpy.min.js","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"./js/jianpian.js"},
 {"key":"JOJO","name":"金榜题名时","type":3,"jar":"./jar/jojo.jar","api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1},
-{"key":"xml_玩偶","name":"洞房花烛夜","type": 4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画&token=680004e6f912449db01d407c78661c79","searchable": 1,"quickSearch": 1,"filterable": 1}
+{"key":"玩偶","name":"洞房花烛夜","type":3,"jar":"./jar/wogg.jar","api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"ext": {"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","filter": "./json/wogg.json","danmu": false}},
 ],
 "parses":[
     {"name":"但行好事","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["腾讯视频","优酷视频","奇艺视频","芒果视频"]}},
