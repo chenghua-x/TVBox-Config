@@ -23,6 +23,19 @@
         {"key":"drpy_js_310直播","name":"资源┃体育","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/310.js"},        
         {"key":"drpy_js_网易公版影像","name":"资源┃记录","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/jilu.js"},
         {"key":"易搜","name":"云盘┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
+{"key":"AList","name":"云盘","type":3,"jar":"./jar/1013.jar","playerType":1,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,
+"ext":{"vodPic":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/ing/蜡笔小新.png?ref_type=heads",
+"drives":[
+   
+    {
+    "name": "托盘",
+    "server": "https://pan.mediy.cn/%F0%9F%93%BD%EF%B8%8FMovies"
+    }
+]}},
+{"key":"嘶哩","name":"嘶哩｜动漫","type":3,"api":"csp_Skapp","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"wf7jTHTllmPx90cSfqYsxOFbNiEn/OOwcQMioXntTCgGo6loj/amsxwUNfJPF2W00I+ZJzSan7pD3OPqeGn1/3CaJLZhzh/OtQFo7cJf/AA/LRGchJ/NNsdu8c3HeY8X3ic+nAYiOFIT7HiLfqFnBom04dCSbujoxb0RoT6iYiZSArenzm5E5lEpGHD/KltmbDpcX9Lkxj+9HnF/okAhK8nsUmta/Jrnk40HP7cZodP3QGeLUpeoOCQZzw++LuS9iYZSentZVKL9q/puBZ78nhjx4fw94cM1SbG0rcAB9vwZr4z9YYNRythGAfNeOsMgRpAOnZH8K5JuWFoADNhHLMA==","jar":"./jar/fm.jar"},
+
+
+
         {"key": "csp_WoGG","name": "云盘┃玩偶","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar": "./jar/fan.txt"}
          
     ],
