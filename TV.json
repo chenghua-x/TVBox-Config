@@ -14,7 +14,9 @@
 
 "sites": [ 
 {"key":"荐片","name":"他乡遇故知","type":3,"api":"./lib/drpy.min.js","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"./js/jianpian.js"},
-{"key":"JOJO","name":"金榜题名时","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1},
+//{"key":"JOJO","name":"金榜题名时","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1},
+{"key":"AList","name":"金榜题名时","type":3,"jar":"./jar/1013.jar","playerType":1,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":{"drives":[{"name": "分类","server": "https://pan.mediy.cn"}]}},
+
 {"key":"玩偶","name":"洞房花烛夜","type":3,"jar":"./jar/wogg.jar","api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"ext": {"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","filter": "./json/wogg.json","danmu": false}}
 ],
 "parses":[
