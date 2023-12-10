@@ -14,27 +14,11 @@
     
         {"key":"腾讯","name":"官方┃腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
         {"key":"芒果","name":"官方┃芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
-        
-        {"key":"一起看","name":"解析┃天行","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar": "./jar/yqk.jar"},
-        {"key":"csp_Nmys","name": "解析┃如若","type": 3, "api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nm.json","jar": "./jar/cc.jar"},
         {"key":"csp_XYQHiker_555影视","name":"采集┃暴风","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"},
         {"key":"csp_Bttoo","name":"采集┃量子","type": 0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","电影片","连续剧"]},    
         {"key":"drpy_js_310直播","name":"资源┃体育","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/310.js"},        
         {"key":"drpy_js_网易公版影像","name":"资源┃记录","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/jilu.js"},
-        {"key":"易搜","name":"云盘┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt","jar":"./jar/fm.jar"},
-{"key":"AList","name":"云盘","type":3,"jar":"./jar/1013.jar","playerType":1,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,
-"ext":{"vodPic":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/ing/蜡笔小新.png?ref_type=heads",
-"drives":[
-   
-    {
-    "name": "托盘",
-    "server": "https://pan.mediy.cn"
-    }
-]}},
-{"key":"嘶哩","name":"嘶哩｜动漫","type":3,"api":"csp_Skapp","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"wf7jTHTllmPx90cSfqYsxOFbNiEn/OOwcQMioXntTCgGo6loj/amsxwUNfJPF2W00I+ZJzSan7pD3OPqeGn1/3CaJLZhzh/OtQFo7cJf/AA/LRGchJ/NNsdu8c3HeY8X3ic+nAYiOFIT7HiLfqFnBom04dCSbujoxb0RoT6iYiZSArenzm5E5lEpGHD/KltmbDpcX9Lkxj+9HnF/okAhK8nsUmta/Jrnk40HP7cZodP3QGeLUpeoOCQZzw++LuS9iYZSentZVKL9q/puBZ78nhjx4fw94cM1SbG0rcAB9vwZr4z9YYNRythGAfNeOsMgRpAOnZH8K5JuWFoADNhHLMA==","jar":"./jar/fm.jar"},
-
-
-
+        {"key":"AList","name":"云盘┃托盘","type":3,"jar":"./jar/1013.jar","playerType":1,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":{"drives":[{"name": "云盘","server": "https://pan.mediy.cn"}]}},
         {"key": "csp_WoGG","name": "云盘┃玩偶","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar": "./jar/fan.txt"}
          
     ],
