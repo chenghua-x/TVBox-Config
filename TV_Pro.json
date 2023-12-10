@@ -14,8 +14,7 @@
     
         {"key":"腾讯","name":"官方┃腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
         {"key":"芒果","name":"官方┃芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
-        {"key":"虎牙直播js","name": "直播┃虎牙","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js","style": {"type": "rect","ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar": "./jar/fan.txt" },
-        {"key":"csp_XYQBiu_斗鱼","name": "直播┃斗鱼","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js","style": {"type": "rect","ratio": 1.755},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar": "./jar/fan.txt"}, 
+        
         {"key":"一起看","name":"解析┃天行","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar": "./jar/yqk.jar"},
         {"key":"csp_Nmys","name": "解析┃如若","type": 3, "api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nm.json","jar": "./jar/cc.jar"},
         {"key":"csp_XYQHiker_555影视","name":"采集┃暴风","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/555.json"},
@@ -29,7 +28,7 @@
    
     {
     "name": "托盘",
-    "server": "https://pan.mediy.cn/%F0%9F%93%BD%EF%B8%8FMovies"
+    "server": "https://pan.mediy.cn"
     }
 ]}},
 {"key":"嘶哩","name":"嘶哩｜动漫","type":3,"api":"csp_Skapp","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"wf7jTHTllmPx90cSfqYsxOFbNiEn/OOwcQMioXntTCgGo6loj/amsxwUNfJPF2W00I+ZJzSan7pD3OPqeGn1/3CaJLZhzh/OtQFo7cJf/AA/LRGchJ/NNsdu8c3HeY8X3ic+nAYiOFIT7HiLfqFnBom04dCSbujoxb0RoT6iYiZSArenzm5E5lEpGHD/KltmbDpcX9Lkxj+9HnF/okAhK8nsUmta/Jrnk40HP7cZodP3QGeLUpeoOCQZzw++LuS9iYZSentZVKL9q/puBZ78nhjx4fw94cM1SbG0rcAB9vwZr4z9YYNRythGAfNeOsMgRpAOnZH8K5JuWFoADNhHLMA==","jar":"./jar/fm.jar"},
