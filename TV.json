@@ -15,6 +15,18 @@
 "sites": [ 
 {"key":"荐片","name":"他乡遇故知","type":3,"api":"./lib/drpy.min.js","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"./js/jianpian.js"},
 {"key":"JOJO","name":"金榜题名时","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1},
+{
+      "key": "玩偶哥哥",
+      "name": "🤟┃玩偶┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
+      "jar": "./lib/wogga.jar"
+    },
+
 {"key":"玩偶","name":"洞房花烛夜","type":3,"jar":"./jar/wogg.jar","api":"csp_Wogg","searchable":1,"filterable":1,"changeable":0,"ext": {"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","filter": "./json/wogg.json","danmu": false}}
 ],
 "parses":[
