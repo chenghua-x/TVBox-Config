@@ -13,7 +13,7 @@
 "sites": [ 
 {"key":"荐片","name":"他乡遇故知","type":3,"api":"./lib/drpy.min.js","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"./js/jianpian.js"},
 {"key":"次元","name":"金榜题名时","type":3,"api":"./lib/drpy.min.js","searchable":1,"changeable":1,"ext":"./js/ciyuan.js"},
-{"key": "玩偶哥哥","name": "洞房花烛夜","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar": ".jar/wogg.jar"}
+{"key": "玩偶哥哥","name": "洞房花烛夜","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar": "https://mp-88c64fe6-d83f-4669-8644-8b4f53c88446.cdn.bspapp.com/wogg.jar"}
 ],
 "parses":[
     {"name":"但行好事","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["腾讯视频","优酷视频","奇艺视频","芒果视频"]}},
