@@ -17,7 +17,7 @@
 ],
 "parses":[
     {"name":"但行好事","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["腾讯视频","优酷视频","奇艺视频","芒果视频"]}},
-    {"name":"莫问归期","type":1,"url":"https://jx.yparse.com/index.php?url="}
+    {"name":"莫问归期","type":0,"url":"https://jx.yparse.com/index.php?url="}
 ],
 "flags":
 ["youku","qq","QQ","iqiyi","qiqi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv"],
@@ -30,6 +30,7 @@
 {"name":"索尼","hosts":["snzycdn","suonizy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8.333333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"沿途","hosts":["jx.yangtu.top"],"regex":["download4.caiyun.feixin.10086.cn","/servlet/"]},
 {"name":"火山","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"一起","hosts":["yqk88"],"regex":["18.4666"]},
 {"name":"抖音","hosts":["douyin.com"],"regex":["is_play_url="]}],
 
 
