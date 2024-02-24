@@ -13,7 +13,7 @@
 "sites": [ 
 {"key":"荐片","name":"他乡遇故知","type":3,"api":"./lib/drpy.min.js","playerType":1,"searchable":1,"filterable":1,"changeable":1,"ext":"./js/jianpian.js"},
 {"key":"次元","name":"金榜题名时","type":3,"api":"./lib/drpy.min.js","searchable":1,"changeable":1,"ext":"./js/ciyuan.js"},
-{"key":"官源","name":"洞房花烛夜","type":3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable": 0,"ext":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/at/json"}
+{"key":"官源","name":"洞房花烛夜","type":3,"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/at/json","searchable":1, "changeable": 1}
 ],
 "parses":[
     {"name":"但行好事","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["腾讯视频","优酷视频","奇艺视频","芒果视频"]}},
